@@ -430,3 +430,6 @@ initializeApp(firebaseAppConfig);
 
 initFirebaseAuth();
 loadMessages();
+
+// TODO: Enable Firebase Performance Monitoring.
+getPerformance();
